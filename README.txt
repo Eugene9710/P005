@@ -1,1 +1,1 @@
-djn nfr
+проверка Push и Pull
